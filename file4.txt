@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is come content to mess up with later
 new line in here in file4.txt
+=======
+this is osme woodo stuff right here my man
+>>>>>>> newfeature
